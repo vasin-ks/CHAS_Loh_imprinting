@@ -1,6 +1,6 @@
-# Instrument name: Imprinting-gene-catcher
+Instrument name: Imprinting-gene-catcher
 
-# Description and tasks: This script is written to work with loss of heterozygosity (LOH) data from Chromosome Analysis Suite 4.3 (ChAS 4.3) 
+Description and tasks: This script is written to work with loss of heterozygosity (LOH) data from Chromosome Analysis Suite 4.3 (ChAS 4.3) 
 
 Working in the program (ChAS) we analyze the loss of heterozygosity (LOH).
 We have 2 tasks: Determination of loss of heterozygosity LOH above 2500000 (we will assume that the size above this is abnormal) bp and determination of imprinted genes (gene that is differentially expressed depending on maternal or paternal origin ). 
