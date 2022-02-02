@@ -30,7 +30,7 @@ My file is saved to the desktop and is called imprinting_analysis
 Thank you all for your attention. 
 
 With you was 
-#Vasin Kirill Sergeevich, MD., Phd. 
+# Vasin Kirill Sergeevich, MD., Phd. 
 My contacts:
 
 drvasinks@gmail.com
