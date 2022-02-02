@@ -2,9 +2,8 @@
 
 # Description and tasks: This program is written to work with loss of heterozygosity (LOH) data from Chromosome Analysis Suite 4.3 (ChAS 4.3) 
 
-Working in the program (ChAS) we analyze the loss of heterozygosity (LOH).
-We have 2 tasks:
-Determination of loss of heterozygosity LOH above 2500000 (we will assume that the size above this is abnormal) bp and determination of imprinted genes (gene that is differentially expressed depending on maternal or paternal origin ). 
+	Working in the program (ChAS) we analyze the loss of heterozygosity (LOH).
+We have 2 tasks: Determination of loss of heterozygosity LOH above 2500000 (we will assume that the size above this is abnormal) bp and determination of imprinted genes (gene that is differentially expressed depending on maternal or paternal origin ). 
 Important point!!! the LOH size that is considered critical can be changed, and the list of genes that are searched can also be changed.
 
 
@@ -27,8 +26,11 @@ My file is saved to the desktop and is called imprinting_analysis
 
 
 Thank you all for your attention. 
+
 With you was Vasin Kirill Sergeevich, MD., Phd. 
 My contacts:
 drvasinks@gmail.com
+
 telegram @DrKvasin
+
 https://www.linkedin.com/in/kirill-vasin-ba654a104/
