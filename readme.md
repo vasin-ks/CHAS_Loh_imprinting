@@ -1,4 +1,4 @@
-# instrument name: CHAS_Loh_imprinting
+# Instrument name: CHAS_Loh_imprinting
 
 # Description and tasks: This program is written to work with loss of heterozygosity (LOH) data from Chromosome Analysis Suite 4.3 (ChAS 4.3) 
 
