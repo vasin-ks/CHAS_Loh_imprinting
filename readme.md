@@ -42,4 +42,4 @@ drvasinks@gmail.com
 telegram @DrKvasin
 
 https://www.linkedin.com/in/kirill-vasin-ba654a104/
->>>>>>> 20006a7cabf8ed3727c5a02b6db90339c64d929d
+
