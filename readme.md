@@ -15,7 +15,7 @@ This package is needed to generate a doc file and highlight text with color.
 
 2-The geneimprint section provides a list of imprinted genes. I took this list from www.geneimprint.com. The list of genes can be changed to your taste.
  
-3-First you enter how much LOH there is in the hour program. For example :1 
+3-First you enter how much LOH there is in the your program. For example :1 
 
 4-Next, you will copy all the data for this LOH. Columns from the CHAS program should be copied 14.
 Below are the names of these cells and an example row:
