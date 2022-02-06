@@ -33,13 +33,13 @@ My file is saved to the desktop and is called imprinting_analysis
 
 Thank you all for your attention. 
 
-With you was 
-# Vasin Kirill Sergeevich, MD., Phd. 
-My contacts:
+	With you was 
+	Vasin Kirill Sergeevich, MD., Phd. 
+	My contacts:
 
-drvasinks@gmail.com
+	drvasinks@gmail.com
 
-telegram @DrKvasin
+	telegram @DrKvasin
 
-https://www.linkedin.com/in/kirill-vasin-ba654a104/
+	https://www.linkedin.com/in/kirill-vasin-ba654a104/
 
